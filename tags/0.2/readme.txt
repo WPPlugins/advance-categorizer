@@ -1,0 +1,1 @@
+=== Advance Categorizer ===Contributors: FedmichTags: categories, tags, utilitiesTested up to: 2.8.1Donate link: http://www.fedmich.com/tools/donateAllows you to add multiple categories using comma seperated text.
